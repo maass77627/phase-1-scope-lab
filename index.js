@@ -1,5 +1,7 @@
-// Write your solution in this file!
- customerName = "bob"
+
+
+
+customerName = "bob"
 const  leastFavoriteCustomer = "sam"
 
 function upperCaseCustomerName() {
@@ -8,13 +10,13 @@ function upperCaseCustomerName() {
 
 function setBestCustomer() {
     bestCustomer = 'not bob'
-}
+ }
 
 
 function overwriteBestCustomer() {
     bestCustomer = 'maybe bob'
-}
+ }
 
-function changeLeastFavoriteCustomer() {
-     leastFavoriteCustomer = "ben"
-}
+ function changeLeastFavoriteCustomer() {
+      leastFavoriteCustomer = "ben"
+ }
